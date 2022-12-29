@@ -4,7 +4,7 @@ Simple youtube video downloader made for saving videos during flights or long dr
 <br>
 <br>
 
-![alt text](https://github.com/ericheose/YtDownload/blob/main/images/image2.jpg?raw=true)
+![alt text](https://github.com/ericheose/YtDownload/blob/main/images/image2.JPG?raw=true)
 
 <br>
 <br>
