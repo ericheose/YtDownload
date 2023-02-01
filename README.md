@@ -1,5 +1,5 @@
 # YtDownload
-Simple youtube video downloader made for saving videos during flights or long drives
+Simple youtube video downloader made for saving videos during flights or long drives using python and tkinter library
 ![](images/filesname%20image.jpg)
 <br>
 <br>
